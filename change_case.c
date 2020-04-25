@@ -27,3 +27,4 @@ int main(void)
     }
     printf("UC: %s\n", lowerCase);
 }
+// Finished
