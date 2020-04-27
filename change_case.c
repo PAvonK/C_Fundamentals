@@ -25,6 +25,12 @@ int main(void)
     {
         lowerCase[i] = tolower(lowerCase[i]);
     }
+<<<<<<< HEAD
     printf("lC: %s\n", lowerCase);
 }
 // Final
+=======
+    printf("UC: %s\n", lowerCase);
+}
+// Finished
+>>>>>>> 7bbf673834734a4b879a5c3b61df05169f2e05e4
